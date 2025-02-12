@@ -28,7 +28,8 @@ La plataforma se compone de una **web app**, conectada a un backend robusto con 
 
 Este es el diagrama del flujo de datos y componentes principales del sistema:  
 
-![Diagrama de Arquitectura](Diagrama_Finance_App.png) 
+![Diagrama Finance_App](https://github.com/user-attachments/assets/420811d2-597b-4c8f-a095-943c9738af5f)
+
 
 ## 📌 Alcance 🌍  
 ✅ **Desarrollo Web:** Plataforma accesible desde navegadores.   
