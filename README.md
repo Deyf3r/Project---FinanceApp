@@ -1,15 +1,12 @@
 # Project---FinanceApp
 
-# 📌 Plataforma Web y App Móvil de Finanzas Personales con IA Predictiva  
+# 📌 Plataforma Web de Finanzas Personales con IA Predictiva  
 
 ### 📊 Gestión inteligente de finanzas personales con predicción de gastos e ingresos.  
-
-![Finanzas IA](https://source.unsplash.com/featured/?finance,technology)  
-
 ---
 
 ## 📌 Objetivo 🎯  
-El proyecto busca desarrollar una **plataforma web y aplicación móvil** que permita a los usuarios gestionar sus finanzas personales **de manera inteligente**, utilizando **inteligencia artificial** para predecir patrones de ingresos y gastos futuros.  
+El proyecto busca desarrollar una **plataforma web** que permita a los usuarios gestionar sus finanzas personales **de manera inteligente**, utilizando **inteligencia artificial** para predecir patrones de ingresos y gastos futuros.  
 
 Esto permitirá a los usuarios tomar **decisiones financieras informadas** y mejorar su **salud financiera**.  
 
@@ -23,13 +20,18 @@ Esta aplicación ofrece un ecosistema **inteligente y automatizado** para el man
 ✔ **Notificaciones inteligentes** sobre gastos excesivos y metas de ahorro.  
 ✔ **Seguridad avanzada** con autenticación biométrica y cifrado de datos.  
 
-La plataforma se compone de una **web app y una app móvil**, conectadas a un backend robusto con capacidades de inteligencia artificial.  
+La plataforma se compone de una **web app**, conectada a un backend robusto con capacidades de inteligencia artificial.  
 
 ---
 
+## 📌 Diagrama de Arquitectura 📊  
+
+Este es el diagrama del flujo de datos y componentes principales del sistema:  
+
+![Diagrama de Arquitectura](Diagrama_Finance_App.png) 
+
 ## 📌 Alcance 🌍  
-✅ **Desarrollo Web:** Plataforma accesible desde navegadores.  
-✅ **Desarrollo Móvil:** Aplicación disponible en **iOS y Android**.  
+✅ **Desarrollo Web:** Plataforma accesible desde navegadores.   
 ✅ **IA Predictiva:** Algoritmos avanzados para anticipar ingresos y gastos.  
 ✅ **Seguridad de Datos:** Cifrado de extremo a extremo para proteger la información del usuario.  
 
@@ -53,7 +55,6 @@ La plataforma se compone de una **web app y una app móvil**, conectadas a un ba
 | Componente       | Tecnología 📌  |
 |-----------------|----------------|
 | **Frontend Web** | React.js       |
-| **Frontend Móvil** | React Native |
 | **Backend** | Node.js + Express |
 | **Base de Datos** | MySQL |
 | **IA & Machine Learning** | TensorFlow, PyTorch |
@@ -71,7 +72,6 @@ La plataforma se compone de una **web app y una app móvil**, conectadas a un ba
 | Diseño de Prototipos      | 2 semanas  |
 | Desarrollo del Backend    | 4 semanas  |
 | Integración de IA         | 4 semanas  |
-| Desarrollo del Frontend Móvil | 3 semanas  |
 | Desarrollo del Frontend Web  | 3 semanas  |
 | Pruebas y Optimización    | 2 semanas  |
 | Documentación Final       | 1 semana   |
