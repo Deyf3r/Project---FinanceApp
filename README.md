@@ -35,6 +35,20 @@ La plataforma se compone de una **web app y una app móvil**, conectadas a un ba
 
 ---
 
+## 📌 Equipo 👥  
+
+| **Rol**                  | **Integrante**                          |
+|--------------------------|----------------------------------------|
+| **Backend Developer**    | Lewis Manuel Felipe Rodríguez (2021-1590) |
+| **Backend Developer**    | Esmeralda Delgado (2021-2107)         |
+| **Frontend Web Developer** | Ronny Yoel Pérez Cuevas (2017-5482)    |
+| **Frontend Mobile Developer** | Vicmairy Adelina Charles Laureano (2022-0261) |
+| **AI Specialist**        | Christopher Tolentino (2020-10703)     |
+| **AI Specialist**        | Wilkin Ortiz Encarnación (2021-0657)   |
+| **QA & DevOps Engineer** | Deivi Cristopher Aquino Pérez (2022-2021) |
+
+---
+
 ## 📌 Tecnologías Utilizadas 🛠️  
 | Componente       | Tecnología 📌  |
 |-----------------|----------------|
@@ -65,20 +79,5 @@ La plataforma se compone de una **web app y una app móvil**, conectadas a un ba
 
 ---
 
-## 📌 Equipo 👥  
-
-| **Rol**                  | **Integrante**                          |
-|--------------------------|----------------------------------------|
-| **Backend Developer**    | Lewis Manuel Felipe Rodríguez (2021-1590) |
-| **Backend Developer**    | Esmeralda Delgado (2021-2107)         |
-| **Frontend Web Developer** | Ronny Yoel Pérez Cuevas (2017-5482)    |
-| **Frontend Mobile Developer** | Vicmairy Adelina Charles Laureano (2022-0261) |
-| **AI Specialist**        | Christopher Tolentino (2020-10703)     |
-| **AI Specialist**        | Wilkin Ortiz Encarnación (2021-0657)   |
-| **QA & DevOps Engineer** | Deivi Cristopher Aquino Pérez (2022-2021) |
-
----
-
-## 📌 Arquitectura del Proyecto 🏗️  
 
 
