@@ -1,4 +1,3 @@
-# Project---FinanceApp
 
 # 📌 Plataforma Web de Finanzas Personales con IA Predictiva  
 
